@@ -1,2 +1,6 @@
 npm init --y
 npm i -D typescript @types/node
+
+
+ensure LocalSavePurchases delete cache with given key
+move production code to their own files
